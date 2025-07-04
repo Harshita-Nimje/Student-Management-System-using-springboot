@@ -1,1 +1,1 @@
-# CRUD-Application-using-springboot
+# Student Management System-using-springboot
